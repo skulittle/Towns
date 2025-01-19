@@ -2,4 +2,4 @@
 Code for the Git and GitHub Exercise
 
 # Roles
-skullleeep Takes All Roles
+skullleeep Takes Every Role
